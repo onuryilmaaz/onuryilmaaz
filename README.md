@@ -1,4 +1,4 @@
- [![MasterHead](https://4kwallpapers.com/images/walls/thumbs_3t/15386.jpg)
+![MasterHead](https://4kwallpapers.com/images/walls/thumbs_3t/15386.jpg)
 <h1 align="center">Hi 👋, I'm Onur YILMAZ</h1>
 <h3 align="center">Computer Engineering</h3>
 
