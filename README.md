@@ -1,4 +1,4 @@
-![MasterHead]([https://4kwallpapers.com/images/walls/thumbs_3t/15386.jpg](https://media.istockphoto.com/id/1189940544/tr/foto%C4%9Fraf/arka-u%C3%A7-proje-mimarisi-geli%C5%9Ftirme-veritaban%C4%B1-diyagram%C4%B1-bi%C3%A7imlendirme.webp?s=2048x2048&w=is&k=20&c=38fME1mkjbX43dbR2eoNXLgYfKEkYuQGIvgn-hQFlQo=))
+![MasterHead](https://media.istockphoto.com/id/1189940544/tr/foto%C4%9Fraf/arka-u%C3%A7-proje-mimarisi-geli%C5%9Ftirme-veritaban%C4%B1-diyagram%C4%B1-bi%C3%A7imlendirme.webp?s=2048x2048&w=is&k=20&c=38fME1mkjbX43dbR2eoNXLgYfKEkYuQGIvgn-hQFlQo=)
 <h1 align="center">Hi 👋, I'm Onur YILMAZ</h1>
 <h3 align="center">Computer Engineering</h3>
 
