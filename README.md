@@ -1,4 +1,4 @@
-![MasterHead](https://media.istockphoto.com/id/1189940544/tr/foto%C4%9Fraf/arka-u%C3%A7-proje-mimarisi-geli%C5%9Ftirme-veritaban%C4%B1-diyagram%C4%B1-bi%C3%A7imlendirme.webp?s=2048x2048&w=is&k=20&c=38fME1mkjbX43dbR2eoNXLgYfKEkYuQGIvgn-hQFlQo=)
+![MasterHead](https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_335657-986.jpg?t=st=1732216223~exp=1732219823~hmac=936ade237f0a61351d0e2899f849b852b9f3d7c93ab9248e53eea8f4fb35e871&w=1060)
 <h1 align="center">Hi 👋, I'm Onur YILMAZ</h1>
 <h3 align="center">Computer Engineering</h3>
 
