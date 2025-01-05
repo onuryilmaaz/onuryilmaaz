@@ -1,5 +1,6 @@
-![MasterHead](https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_335657-986.jpg?t=st=1732216223~exp=1732219823~hmac=936ade237f0a61351d0e2899f849b852b9f3d7c93ab9248e53eea8f4fb35e871&w=1060)
-<h1 align="center">Hi 👋, I'm Onur YILMAZ</h1>
+
+<![An_artistic_illustration_of_a_web_developer_working_on_a_sleek_modern_laptop_surrounded_by_floating_code_snippets_and_icons_of_popular_technologies_like_React_JavaScript_and_GitHub_The_setting_is_a_futuristic_work](https://github.com/user-attachments/assets/5d3bf308-a485-41f8-8269-f8da1584088f)
+h1 align="center">Hi 👋, I'm Onur YILMAZ</h1>
 <h3 align="center">Computer Engineering</h3>
 
 - 🔭 I’m currently working on **React**
