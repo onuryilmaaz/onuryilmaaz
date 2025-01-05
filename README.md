@@ -1,5 +1,5 @@
 
-<![An_artistic_illustration_of_a_web_developer_working_on_a_sleek_modern_laptop_surrounded_by_floating_code_snippets_and_icons_of_popular_technologies_like_React_JavaScript_and_GitHub_The_setting_is_a_futuristic_work](https://github.com/user-attachments/assets/5d3bf308-a485-41f8-8269-f8da1584088f)
+<!An_artistic_illustration_of_a_web_developer_working_on_a_sleek_modern_laptop_surrounded_by_floating_code_snippets_and_icons_of_popular_technologies_like_React_JavaScript_and_GitHub_The_setting_is_a_futuristic_work](https://github.com/user-attachments/assets/5d3bf308-a485-41f8-8269-f8da1584088f)
 h1 align="center">Hi 👋, I'm Onur YILMAZ</h1>
 <h3 align="center">Computer Engineering</h3>
 
