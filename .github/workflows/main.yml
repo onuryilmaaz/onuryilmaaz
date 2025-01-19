@@ -1,14 +1,14 @@
 name: Generate snake animation
 
 on:
-  schedule: # execute every 12 hours
+  schedule: # her 12 saatte bir çalıştır
     - cron: "* */12 * * *"
 
-  workflow_dispatch:
+  workflow_dispatch: # elle başlatma özelliği
 
   push:
     branches:
-    - master
+    - master # sadece master branch için çalıştır
 
 jobs:
   generate:
@@ -18,17 +18,18 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate snake.svg
+      - name: Generate snake.svg for 2025 commits
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
+          year: 2025 # Yalnızca 2025 yılına ait commit'ler
 
-
-      - name: push snake.svg to the output branch
+      - name: Push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
+          target_branch: output # Hedef branch
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
