@@ -1,4 +1,4 @@
- ![An_artistic_illustration_of_a_web_developer_working_on_a_sleek_modern_laptop_surrounded_by_floating_code_snippets_and_icons_of_popular_technologies_like_React_JavaScript_and_GitHub_The_setting_is_a_futuristic_work](https://github.com/user-attachments/assets/84e62966-ac8c-406a-87bc-4ac6f7bbc0eb)
+ 
 
 <h1>Full-Stack Developer</h1>
 <p>A beginner-level full-stack developer passionate about learning and growing in both frontend and backend technologies. Continuously improving my skills to build scalable, responsive, and user-friendly web applications.</p>
