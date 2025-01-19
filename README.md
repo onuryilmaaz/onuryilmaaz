@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">A beginner-level full-stack developer passionate about learning and growing in both frontend and backend technologies. Continuously improving my skills to build scalable, responsive, and user-friendly web applications.</p>
+<p align="left">A motivated and detail-oriented beginner-level full-stack developer, passionate about exploring and mastering both frontend and backend technologies. I am dedicated to enhancing my skills and gaining hands-on experience in developing scalable, efficient, and user-friendly web applications. I enjoy working on innovative projects that solve real-world problems, emphasizing clean code, responsive design, and optimized performance. Eager to collaborate within teams to bring ideas to life while continuously learning new tools, frameworks, and methodologies.</p>
 
 ###
 
